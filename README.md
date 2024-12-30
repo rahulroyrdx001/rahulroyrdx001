@@ -115,7 +115,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahulroyrdx001/rahulroyrdx001/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
