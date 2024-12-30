@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I am Rahul</h1>
+<h1 align="center">Hi Folks👋, I'm Rahul</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">👋 Hi there, I'm Rahul from India 🚀🚀🚀<br><br>🔭 I’m currently working as a Frontend Developer specializing in React , JavaScript and building responsive, user-centric web applications. <br>📚 I'm exploring advanced React frameworks, GSAP animations, and SEO strategies to enhance my skills.<br>🏆  I have hands-on experience with the MERN stack, REST APIs, and creating seamless UI/UX designs.<br>⚡ In my free time, I enjoy exploring new technologies, contributing to open-source projects, and creating interactive web experiences.</p>
 
 ###
 
@@ -115,11 +115,7 @@
 
 ###
 
-
-
-###
-
+<img src="https://raw.githubusercontent.com/rahulroyrdx001/rahulroyrdx001/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
